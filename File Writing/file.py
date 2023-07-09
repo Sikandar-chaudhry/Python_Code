@@ -1,0 +1,1 @@
+print('This is been written from using file writing')
