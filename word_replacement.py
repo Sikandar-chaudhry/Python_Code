@@ -1,5 +1,4 @@
-
-
+print("\n*Word Replacement*")
 sentence = input ("Enter your sentence: ")
 print('Your sentence is : ' + sentence)
 word1 = input ("Enter word to replace : ")
