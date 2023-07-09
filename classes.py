@@ -6,3 +6,10 @@ class Point ():
 p = Point(2 , 8)
 print(p.x)
 print(p.y)
+
+
+# This is class for inheritance 
+class Person ():
+    name = "Sikander"
+    age = 19
+    profession = "Computer Science"
