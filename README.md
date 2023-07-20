@@ -1,6 +1,6 @@
 # Python Code 
 
-A brief description of what this project does and who it's for
+A brief description of what this repo does and who it's for
 
 
 ## Authors
