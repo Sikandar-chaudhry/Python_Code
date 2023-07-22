@@ -14,9 +14,9 @@ A brief description of what this repo does and who it's for
 - Data Types in Python
 - Sequence Selection Control Structures
 - Repetition Control Structures
-- File Handling
+- File Reading
+- File Writing 
 - Classes and Objects
 - Inheritance
-
 
 
